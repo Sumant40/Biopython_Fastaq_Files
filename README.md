@@ -53,10 +53,4 @@ fastq_biopython/
 └── README.md               # Project documentation
 ```
 
-## 📖 References
-- [Biopython Documentation](https://biopython.org/wiki/Documentation)
-- Cock, P.J.A. et al. (2009) Biopython: freely available Python tools for computational molecular biology and bioinformatics. *Bioinformatics*, 25(11), 1422–1423.
-
-## ✨ Acknowledgments
-This notebook is for educational purposes, demonstrating how to handle FASTQ sequence files using Biopython.
 
